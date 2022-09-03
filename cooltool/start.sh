@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-banner al.taqlbe
+banner al.taqlbe0
 echo "This Tool Made By instagram@al.taqlbe"
 sleep 5
 echo "Wait...."
